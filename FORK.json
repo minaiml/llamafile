@@ -1,0 +1,14 @@
+{
+  "fork": "minaiml/llamafile",
+  "source": "mozilla-ai/llamafile",
+  "source_url": "https://github.com/mozilla-ai/llamafile",
+  "commit": "4a9be84a8d788cbd7784f815e825c641f9bf869a",
+  "branch": "main",
+  "fetched": "2026-09-18",
+  "upstream_license": "NOASSERTION",
+  "upstream_license_name": "Other",
+  "role": "laptop engine — one portable executable per model",
+  "note": "GitHub could not resolve this repository's LICENSE to a single SPDX identifier (it reports \"Other\"). Read the upstream LICENSE file before reusing any of it; do not assume a permissive licence from the project's reputation.",
+  "estate_license": "not applicable — no estate code added to this fork",
+  "policy": "https://github.com/minaiml"
+}
