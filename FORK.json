@@ -5,10 +5,11 @@
   "commit": "4a9be84a8d788cbd7784f815e825c641f9bf869a",
   "branch": "main",
   "fetched": "2026-09-18",
-  "upstream_license": "NOASSERTION",
+  "upstream_license": "Apache-2.0",
   "upstream_license_name": "Other",
   "role": "laptop engine — one portable executable per model",
-  "note": "GitHub could not resolve this repository's LICENSE to a single SPDX identifier (it reports \"Other\"). Read the upstream LICENSE file before reusing any of it; do not assume a permissive licence from the project's reputation.",
+  "note": "LICENSE is Apache-2.0 (Mozilla Foundation). llamafile vendors llama.cpp, which is MIT — both permissive, and the vendored parts keep their own terms.",
   "estate_license": "not applicable — no estate code added to this fork",
-  "policy": "https://github.com/minaiml"
+  "policy": "https://github.com/minaiml",
+  "upstream_license_resolved_from": "the LICENSE file, read 2026-09-18"
 }
